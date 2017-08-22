@@ -1,0 +1,25 @@
+* {
+  font-family: 'Prompt', sans-serif;
+}
+body{
+    background: #FBDEA0;
+    
+}
+
+label{
+  display:block;
+  text-align: inherit;
+  text-transform: capitalize;
+  color: blue;
+  
+}
+h1{
+  color: #516BB1;
+}
+input{
+  height: 30px;
+  width: 250px;
+}
+#enviar{
+  bottom: 10px;
+}
